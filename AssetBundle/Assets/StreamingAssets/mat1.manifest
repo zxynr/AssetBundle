@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2643288493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ae54cdb6a1d96506b5ae30d268eda2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7698f067aba18f6587c7bb752f83f10e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/mat1.mat
+- Assets/DOAX.jpg
+Dependencies: []

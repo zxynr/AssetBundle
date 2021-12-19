@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cy
+      Dependencies: {}
+    Info_1:
+      Name: cube
+      Dependencies:
+        Dependency_0: mat1
+    Info_2:
+      Name: mat1
+      Dependencies: {}
+    Info_3:
+      Name: mat2
+      Dependencies: {}
